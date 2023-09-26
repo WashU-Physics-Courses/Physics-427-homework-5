@@ -63,7 +63,7 @@ plot += plt_line
 plot.display()
 ```
 
-In the upper-right corner of the interactive window, you can find box called "K3D panel". You can click on "Controls" -> "Snapshot HTML", which will export the plot into a stand-alone html file. If you are able to carry out this, include the html file in the repository as `problem1.html`.
+In the upper-right corner of the interactive window, you can find box called "K3D panel". You can click on "Controls" -> "Snapshot HTML", which will export the plot into a stand-alone html file. If you are able to carry out this, include the html file in the repository as `problem2.html`.
 
 Feel free to play with different initial conditions, and/or different sets of coefficients $\sigma$, $\beta$, and $\rho$.
 
